@@ -328,4 +328,4 @@ This project is created under the assitance of Microsoft Copilot AI and Grok.
 
 This project is provided without warranty. Verify copied files before removing originals from the iPhone. The project is not affiliated with or endorsed by Apple or Microsoft.
 
-Oh, and fuck Apple. I had to spend time making this all because of your shitty design. 
+Oh, and fuck Apple. I had to spend time making this thanks to your shitty design. 
