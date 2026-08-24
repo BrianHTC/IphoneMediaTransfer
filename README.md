@@ -1,4 +1,4 @@
-# iPhone Media Copy for Windows
+# iPhone-to-Windows Media Transfer Tool 
 
 A PowerShell tool for transfering photos and videos from an iPhone through a USB cable. The tool supports date filtering, automatic date-based and file type sorting, configurable conflict handling methods, and result verification.
 
