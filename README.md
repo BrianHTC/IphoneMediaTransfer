@@ -325,5 +325,7 @@ Do not include personal photos, private filenames, device identifiers, or other 
 ## Disclaimer and Disclosure
 
 This project is created under the assitance of Microsoft Copilot AI and Grok. 
+
 This project is provided without warranty. Verify copied files before removing originals from the iPhone. The project is not affiliated with or endorsed by Apple or Microsoft.
+
 Oh, and fuck Apple. I had to spend time making this all because of your shitty design. 
